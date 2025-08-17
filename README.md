@@ -38,9 +38,9 @@ A Python project that summarizes lengthy articles using extractive and abstracti
 ## ▶️ USAGE
 
  Run Python script directly : 
-                    cd "Text Summarization Tool"
-                    source venv/bin/activate
-                    python summarizer.py
+      cd "Text Summarization Tool"
+      source venv/bin/activate
+      python summarizer.py
 
 1. Paste your article when prompted 🖊️
 2. See Extractive and Abstractive summaries instantly ✨

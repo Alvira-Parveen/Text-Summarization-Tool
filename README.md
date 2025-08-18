@@ -1,6 +1,6 @@
 ## 📝 TEXT SUMMARIZATION TOOL
 
-A Python project that summarizes lengthy articles using extractive and abstractive summarization techniques. Users can paste any article and get a concise summary instantly. ✨
+A Python project that summarizes lengthy articles using extractive and abstractive summarization techniques (NLP) . Users can paste any article and get a concise summary instantly. ✨ 
 
 ## 🚀 FEATURES
 
